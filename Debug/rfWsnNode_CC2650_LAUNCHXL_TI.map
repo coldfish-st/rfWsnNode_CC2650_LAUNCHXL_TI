@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v16.9.6                     
 ******************************************************************************
->> Linked Wed May 02 16:02:20 2018
+>> Linked Thu May 03 16:40:18 2018
 
 OUTPUT FILE NAME:   <rfWsnNode_CC2650_LAUNCHXL_TI.out>
 ENTRY POINT SYMBOL: "ResetISR"  address: 00005145

@@ -173,7 +173,7 @@ static void nodeRadioTaskFunction(UArg arg0, UArg arg1)
 
     /* Setup ADC sensor packet */
     dmSensorPacket.header.sourceAddress = nodeAddress;
-    dmSensorPacket.header.packetType = RADIO_PACKET_TYPE_ADC_SENSOR_PACKET;
+    dmSensorPacket.header.packetType = RADIO_PACKET_TYPE_DM_SENSOR_PACKET;
 
 
     /* Initialise previous Tick count used to calculate uptime for the TLM beacon */
